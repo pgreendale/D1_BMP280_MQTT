@@ -1,5 +1,5 @@
 # ThermoDude -  Wemos D1 Mini MQTT Temp Sensor with BMP280 and OLED Display 
-This is just put together from some tutorials [Randomnerdtutorials](https://github.com/DFRobot/DFRobot_BMP280),
+This is just put together from some tutorials [Randomnerdtutorials](https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/),
 works well enough to have some cheap sensors flying around. 
 I use these modules together with Mosquitto and NodeRED in a Raspberry Pi 3 for temperature monitoring at home. 
 <p align="center">
